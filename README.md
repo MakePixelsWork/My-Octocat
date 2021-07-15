@@ -1,5 +1,5 @@
 # My-Octocat
-A backup of my Octocat. cause I constantly loose him.
+A backup of my Octocat. cause I constantly misplace him. Now he has its own repo on my GitHub profile. Pfhew!
 
 <img src="octocat-victor-van-der-put-makepixelswork.png" style="width: 100%;">
 
